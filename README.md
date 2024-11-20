@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![HTML Badge](https://img.shields.io/badge/Made%20with-HTML-orange?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 # HOMEWORK 5 - GIT
 
 This repository contains the code for the team-info webpage that provides details about our teammates and our contact information.
@@ -14,11 +16,5 @@ This repository contains the code for the team-info webpage that provides detail
 
 ## Team-info Webpage
 
-```html
-<html>
-<body>
-<h1> HOMEWORK 5 - GIT </h1>
-<h2>Team-info Webpage</h2>
-<img src="./Webpage.png" alt="Webpage">
-</body>
-</html>
+![Team-info Webpage](./Webpage.png)
+
